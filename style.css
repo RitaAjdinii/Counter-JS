@@ -49,3 +49,24 @@ button:active{
     margin-top:20px;
     text-align:center;
 }
+
+.increase{
+    color:green;
+}
+
+.decrease{
+    color:red;
+}
+
+.reset{
+    color:black;
+}
+
+.add{
+    color:green;
+}
+
+.sub{
+    color:red;
+}
+
